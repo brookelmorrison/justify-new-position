@@ -1,4 +1,4 @@
-# justify-new-position
+# Request to Justify New Position
 Data and information to justify new assistant
 
 This repository contains data used to justify a request to hire a new Assistant State's Attorney and a draft request. The State's Attorney (also known as District Attorney in other states) requested an analysis of workload of his and other comparable counties within the judicial circuit and a report to present evidence to show that the legal workload for the county necessitated more staff. 
