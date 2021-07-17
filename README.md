@@ -1,8 +1,9 @@
-# Request to Justify New Position
-Data and information to justify new assistant
+# Justifying New Staff Through Data
 
-This repository contains data used to justify a request to hire a new Assistant State's Attorney and a draft request. The State's Attorney (also known as District Attorney in other states) requested an analysis of workload of his and other comparable counties within the judicial circuit and a report to present evidence to show that the legal workload for the county necessitated more staff. 
+I was asked to examine data to find if there was a case to support additional staff for a county prosecuting agency. After collecting and reviewing data from multiple sources, I found that there was a solid case. I also prepared a memo making this case.
 
-All data are public record from the Illinois State Policy and the Illinois Criminal Justice Information Authority. Other information used in the request, such as challenges and measures already taken were made from interviews from the State's Attorney. Some information has been redacted to protect confidentiality.
+This repository contains data I used to justify a request to hire a new Assistant State's Attorney, analyses, and a draft request. The State's Attorney (also known as District Attorney in other states) requested and reviewed this data and memo and presented it to the County Board with his request for funds for the additional staff. The request was successful. 
 
-Disclaimer: This request and data should not be used as part of any criminal justice studies, as it is only an example of work completed. The request is a draft version and is not the final request. 
+All data are public record from the Illinois State Police and the Illinois Criminal Justice Information Authority and interviews with other State's Attorneys. Some information has been redacted per the State's Attorneys Request. Additionally, the memo is in draft form and changes may have been made. I used Python in Jupyter Notebook and Google Sheets for the analyses.
+
+Disclaimer: This request and data should not be used as part of any criminal justice studies, as it is only an example of work completed. Additionally, the data on the Illinois Criminal Justice Information Authority has been updated since the time of data collection.
